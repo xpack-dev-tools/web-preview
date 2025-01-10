@@ -1,2 +1,3 @@
 # web-preview
-The xpack-dev-tools preview site
+
+Web site preview for <https://xpack-dev-tools.github.io>.
