@@ -36,11 +36,6 @@
     "npm-outdated": "npm outdated",
     "deep-clean": "del-cli node_modules package-lock.json *.tgz"
   },
-  "_topConfig": {
-    "descriptiveName": "xPack Dev Tools - Web Preview",
-    "isWebDeployOnly": "true",
-    "isWebPreview": "true"
-  },
   "engines": {
     "node": ">=20.0"
   }
